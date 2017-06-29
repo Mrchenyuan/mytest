@@ -1,0 +1,9 @@
+{
+  "name":"dongdongtest/dongdong",
+  "description":"a little test",
+  "version":"1.0.0",
+  "author":"yd",
+  "autoload": {
+    "files":["dongdongtest/dongdong/index.php"]
+  }
+}
