@@ -6,7 +6,4 @@
     "another-vendor/package": "1.*"
   },
   "author":"yd",
-  "autoload": {
-    "files":["dongdongtest/dongdong/index.php"]
-  }
 }
