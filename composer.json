@@ -1,7 +1,10 @@
 {
   "name":"dongdongtest/dongdong",
   "description":"a little test",
-  "version":"1.0.0",
+  "require": {
+    "php": "^5.3.3 || ^7.0",
+    "another-vendor/package": "1.*"
+  },
   "author":"yd",
   "autoload": {
     "files":["dongdongtest/dongdong/index.php"]
