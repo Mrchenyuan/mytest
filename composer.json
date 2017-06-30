@@ -2,7 +2,6 @@
   "name": "yuandong/caiyun",
   "description": "一个小小的测试",
   "require": {
-    "php": "^5.3.3 || ^7.0",
-    "minimum-stability": "dev-master"
+    "php": "^5.3.3 || ^7.0"
   }
 }
